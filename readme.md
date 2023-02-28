@@ -1,6 +1,6 @@
 # this is a very old version of lil brute it was almost deleted
 ## set up
-run: 
+setup: 
 ```
 py -m venv .venv
 .\.venv\Scripts\activate
