@@ -1,6 +1,6 @@
 # this is a very old version of lil brute it was almost deleted
 ## set up
-setup: 
+run in terminal:
 ```
 py -m venv .venv
 .\.venv\Scripts\activate
@@ -9,8 +9,8 @@ pip install wheel
 pip install -r .\requirements.txt
 ```
 ## run 
-run:
+run in terminal:
 ``` 
 .\.venv\Scripts\activate
-pu main.py
+py main.py
 ```
